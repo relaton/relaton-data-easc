@@ -10,7 +10,7 @@ gem "relaton",
 
 gem "pubid",
     git: "https://github.com/metanorma/pubid.git",
-    branch: "feat/easc-flavor"
+    branch: "rt-new-lutaml-model"
 
 gem "thor",              "~> 1.3"
 gem "nokogiri"

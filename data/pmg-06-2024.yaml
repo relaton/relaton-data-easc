@@ -1,0 +1,66 @@
+---
+id: pmg-06-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок признания результатов испытаний и утверждения типа, первичной поверки,
+    метрологической аттестации средств измерений
+  type: main
+docidentifier:
+- content: ПМГ 06-2024
+  type: EASC
+  primary: true
+docnumber: '06'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaces
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:06:2024
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=477789
+  session: 171-П
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

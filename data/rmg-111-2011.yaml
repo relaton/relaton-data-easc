@@ -1,0 +1,68 @@
+---
+id: rmg-111-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Правила пломбирования и клеймения средств измерений и оборудования, применяемых
+    в составе систем измерений количества показателей качества нефти
+  type: main
+docidentifier:
+- content: РМГ 111-2011
+  type: EASC
+  primary: true
+docnumber: '111'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:111:2011
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=268010
+  session: 47ПЕР
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

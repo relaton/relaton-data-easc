@@ -1,0 +1,77 @@
+---
+id: pmg-02-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Типовое положение о межгосударственном техническом комитете по стандартизации
+  type: main
+docidentifier:
+- content: ПМГ 02-2008
+  type: EASC
+  primary: true
+docnumber: '02'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Бюро по стандартам МГС
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:02:2008
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=211227
+  session: 48МГС
+  developer: Бюро по стандартам МГС
+  joining_states:
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'

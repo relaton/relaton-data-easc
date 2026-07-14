@@ -1,0 +1,12 @@
+= relaton-data-easc
+
+Bibliographic dataset of EASC (Евразийский экономический совет /
+Eurasian Economic Standards Council) documents in Relaton YAML
+format.
+
+Scope: ПМГ (Правила по межгосударственной стандартизации) and РМГ
+(Рекомендации по межгосударственной стандартизации) series.
+
+Source: https://mgscatalog.by
+
+See CLAUDE.md for architecture.

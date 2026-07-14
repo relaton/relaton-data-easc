@@ -1,0 +1,60 @@
+---
+id: pmg-03-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок регистрации и  издания межгосударственных нормативных документов
+    по стандартизации
+  type: main
+docidentifier:
+- content: ПМГ 03-99
+  type: EASC
+  primary: true
+docnumber: '03'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Технический секретариат Межгосударственного Совета по стандартизации,
+        метрологии и сертификации
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:03:99
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=101400
+  session: 40МГС
+  developer: Технический секретариат Межгосударственного Совета по стандартизации,
+    метрологии и сертификации
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'

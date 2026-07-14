@@ -1,0 +1,68 @@
+---
+id: rmg-135-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Установки радиационно-технологические
+    с ускорителями электронов для стерилизации медицинских изделий. Методика аттестации
+  type: main
+docidentifier:
+- content: РМГ 135-2016
+  type: EASC
+  primary: true
+docnumber: '135'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:135:2016
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=346055
+  session: 84-П
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'

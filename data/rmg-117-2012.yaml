@@ -1,0 +1,70 @@
+---
+id: rmg-117-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рекомендации по выбору форм и схем обязательного подтверждения соответствия
+    продукции при разработке технических регламентов
+  type: main
+docidentifier:
+- content: РМГ 117-2012
+  type: EASC
+  primary: true
+docnumber: '117'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:117:2012
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=293286
+  session: 54-П
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'

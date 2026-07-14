@@ -1,0 +1,68 @@
+---
+id: rmg-116-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ГСИ. Резервуары магистральных нефтепроводов и нефтебаз. Техническое обслуживание
+    и метрологическое обеспечение в условиях эксплуатации
+  type: main
+docidentifier:
+- content: РМГ 116-2011
+  type: EASC
+  primary: true
+docnumber: '116'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:116:2011
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=272517
+  session: 40МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

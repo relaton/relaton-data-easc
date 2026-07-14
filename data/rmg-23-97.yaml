@@ -1,0 +1,72 @@
+---
+id: rmg-23-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система технологической документации. Выполнение технологических
+    документов на директивные технологические процессы
+  type: main
+docidentifier:
+- content: РМГ 23-97
+  type: EASC
+  primary: true
+docnumber: '23'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:23:97
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=110413
+  session: 12МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

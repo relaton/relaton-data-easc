@@ -1,0 +1,66 @@
+---
+id: pmg-26-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Реестр межгосударственных стандартных образцов состава и свойств веществ
+    и материалов. Основные положения
+  type: main
+docidentifier:
+- content: ПМГ 26-2019
+  type: EASC
+  primary: true
+docnumber: '26'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaces
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:26:2019
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=468023
+  session: 119-П
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

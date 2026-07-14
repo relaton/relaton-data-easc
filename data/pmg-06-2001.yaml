@@ -1,0 +1,78 @@
+---
+id: pmg-06-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок признания результатов испытаний и утверждения типа, поверки, метрологической
+    аттестации средств измерений
+  type: main
+docidentifier:
+- content: ПМГ 06-2001
+  type: EASC
+  primary: true
+docnumber: '06'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:06:2001
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=123360
+  session: 56МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

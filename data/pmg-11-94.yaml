@@ -1,0 +1,60 @@
+---
+id: pmg-11-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Положение о временной научно-технической комиссии по межгосударственной
+    стандартизации вооружения и военной техники
+  type: main
+docidentifier:
+- content: ПМГ 11-94
+  type: EASC
+  primary: true
+docnumber: '11'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ФГБУ "Российская государственная библиотека" (ФГБУ "РГБ")
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:11:94
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=10
+  session: 6МГС
+  developer: ФГБУ "Российская государственная библиотека" (ФГБУ "РГБ")
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'

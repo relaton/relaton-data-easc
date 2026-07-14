@@ -1,0 +1,74 @@
+---
+id: pmg-08-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок взаимного признания аккредитации лабораторий, осуществляющих испытания,
+    поверку или калибровку средств измерений
+  type: main
+docidentifier:
+- content: ПМГ 08-94
+  type: EASC
+  primary: true
+docnumber: '08'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: withdrawn
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:08:94
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=7
+  session: 49МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

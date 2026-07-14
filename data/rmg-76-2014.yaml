@@ -1,0 +1,70 @@
+---
+id: rmg-76-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ГСИ. Внутренний контроль качества результатов количественного химического
+    анализа
+  type: main
+docidentifier:
+- content: РМГ 76-2014
+  type: EASC
+  primary: true
+docnumber: '76'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaces
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:76:2014
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=317346
+  session: 45МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

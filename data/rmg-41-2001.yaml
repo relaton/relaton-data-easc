@@ -1,0 +1,74 @@
+---
+id: rmg-41-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оформление переводов изданий международных и региональных организаций по
+    стандартизации
+  type: main
+docidentifier:
+- content: РМГ 41-2001
+  type: EASC
+  primary: true
+docnumber: '41'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Украина
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:41:2001
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=123363
+  session: 20МГС
+  developer: Украина
+  joining_states:
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'

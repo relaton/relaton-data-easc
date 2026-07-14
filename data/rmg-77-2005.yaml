@@ -1,0 +1,76 @@
+---
+id: rmg-77-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ГСИ. Интегральные характеристики ультрафиолетового излучения в охране труда.
+    Методика выполнения измерений.
+  type: main
+docidentifier:
+- content: РМГ 77-2005
+  type: EASC
+  primary: true
+docnumber: '77'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:77:2005
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=156944
+  session: 19ПЕР
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'

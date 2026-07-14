@@ -1,0 +1,74 @@
+---
+id: pmg-33-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок проведения проверок безопасности и качества взаимопоставляемой
+    продукции
+  type: main
+docidentifier:
+- content: ПМГ 33-2001
+  type: EASC
+  primary: true
+docnumber: '33'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:33:2001
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=110911
+  session: 29МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

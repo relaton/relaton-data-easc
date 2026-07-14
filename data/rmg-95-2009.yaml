@@ -1,0 +1,64 @@
+---
+id: rmg-95-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Принципы и методология стандартизации. Ссылки на стандарты в технических
+    регламентах. Основные положения и методы ссылок
+  type: main
+docidentifier:
+- content: РМГ 95-2009
+  type: EASC
+  primary: true
+docnumber: '95'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Молдова
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:95:2009
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=239155
+  session: 36МГС
+  developer: Молдова
+  joining_states:
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'

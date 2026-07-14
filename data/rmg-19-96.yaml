@@ -1,0 +1,75 @@
+---
+id: rmg-19-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рекомендации по основным принципам и методам стандартизации терминологии
+  type: main
+docidentifier:
+- content: РМГ 19-96
+  type: EASC
+  primary: true
+docnumber: '19'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Всероссийский научно-исследовательский институт классификации, терминологии
+        и информации по стандартизации и качеству (ВНИИКИ) Госстандарта России
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:19:96
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=18472
+  session: 10МГС
+  developer: Всероссийский научно-исследовательский институт классификации, терминологии
+    и информации по стандартизации и качеству (ВНИИКИ) Госстандарта России
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

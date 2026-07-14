@@ -1,0 +1,335 @@
+---
+- :id: ПМГ 02-2008
+  :file: data/pmg-02-2008.yaml
+- :id: ПМГ 02-93
+  :file: data/pmg-02-93.yaml
+- :id: ПМГ 03-2011
+  :file: data/pmg-03-2011.yaml
+- :id: ПМГ 03-2016
+  :file: data/pmg-03-2016.yaml
+- :id: ПМГ 03-2025
+  :file: data/pmg-03-2025.yaml
+- :id: ПМГ 03-99
+  :file: data/pmg-03-99.yaml
+- :id: ПМГ 04-94
+  :file: data/pmg-04-94.yaml
+- :id: ПМГ 05-94
+  :file: data/pmg-05-94.yaml
+- :id: ПМГ 06-2001
+  :file: data/pmg-06-2001.yaml
+- :id: ПМГ 06-2019
+  :file: data/pmg-06-2019.yaml
+- :id: ПМГ 06-2024
+  :file: data/pmg-06-2024.yaml
+- :id: ПМГ 08-94
+  :file: data/pmg-08-94.yaml
+- :id: ПМГ 11-94
+  :file: data/pmg-11-94.yaml
+- :id: ПМГ 118-2013
+  :file: data/pmg-118-2013.yaml
+- :id: ПМГ 121-2013
+  :file: data/pmg-121-2013.yaml
+- :id: ПМГ 122-2013
+  :file: data/pmg-122-2013.yaml
+- :id: ПМГ 123-2013
+  :file: data/pmg-123-2013.yaml
+- :id: ПМГ 124-2013
+  :file: data/pmg-124-2013.yaml
+- :id: ПМГ 126-2013
+  :file: data/pmg-126-2013.yaml
+- :id: ПМГ 13-95
+  :file: data/pmg-13-95.yaml
+- :id: ПМГ 14-96
+  :file: data/pmg-14-96.yaml
+- :id: ПМГ 15-96
+  :file: data/pmg-15-96.yaml
+- :id: ПМГ 16-2019
+  :file: data/pmg-16-2019.yaml
+- :id: ПМГ 16-96
+  :file: data/pmg-16-96.yaml
+- :id: ПМГ 21-97
+  :file: data/pmg-21-97.yaml
+- :id: ПМГ 22-2004
+  :file: data/pmg-22-2004.yaml
+- :id: ПМГ 25-98
+  :file: data/pmg-25-98.yaml
+- :id: ПМГ 26-2019
+  :file: data/pmg-26-2019.yaml
+- :id: ПМГ 26-98
+  :file: data/pmg-26-98.yaml
+- :id: ПМГ 28-99
+  :file: data/pmg-28-99.yaml
+- :id: ПМГ 30-2001
+  :file: data/pmg-30-2001.yaml
+- :id: ПМГ 32-2001
+  :file: data/pmg-32-2001.yaml
+- :id: ПМГ 32-2006
+  :file: data/pmg-32-2006.yaml
+- :id: ПМГ 33-2001
+  :file: data/pmg-33-2001.yaml
+- :id: ПМГ 33-2006
+  :file: data/pmg-33-2006.yaml
+- :id: ПМГ 35-2001
+  :file: data/pmg-35-2001.yaml
+- :id: ПМГ 36-2001
+  :file: data/pmg-36-2001.yaml
+- :id: ПМГ 37-2001
+  :file: data/pmg-37-2001.yaml
+- :id: ПМГ 38-2001
+  :file: data/pmg-38-2001.yaml
+- :id: ПМГ 39-2001
+  :file: data/pmg-39-2001.yaml
+- :id: ПМГ 40-2001
+  :file: data/pmg-40-2001.yaml
+- :id: ПМГ 42-2001
+  :file: data/pmg-42-2001.yaml
+- :id: ПМГ 44-2001
+  :file: data/pmg-44-2001.yaml
+- :id: ПМГ 46-2002
+  :file: data/pmg-46-2002.yaml
+- :id: ПМГ 47-2002
+  :file: data/pmg-47-2002.yaml
+- :id: ПМГ 48-2002
+  :file: data/pmg-48-2002.yaml
+- :id: ПМГ 49-2002
+  :file: data/pmg-49-2002.yaml
+- :id: ПМГ 65-2003
+  :file: data/pmg-65-2003.yaml
+- :id: ПМГ 68-2004
+  :file: data/pmg-68-2004.yaml
+- :id: ПМГ 73-2004
+  :file: data/pmg-73-2004.yaml
+- :id: ПМГ 82-2007
+  :file: data/pmg-82-2007.yaml
+- :id: ПМГ 84-2007
+  :file: data/pmg-84-2007.yaml
+- :id: ПМГ 90-2008
+  :file: data/pmg-90-2008.yaml
+- :id: ПМГ 92-2009
+  :file: data/pmg-92-2009.yaml
+- :id: ПМГ 96-2009
+  :file: data/pmg-96-2009.yaml
+- :id: ПМГ В 31-2001
+  :file: data/pmg-v-31-2001.yaml
+- :id: РМГ 10-94
+  :file: data/rmg-10-94.yaml
+- :id: РМГ 100-2010
+  :file: data/rmg-100-2010.yaml
+- :id: РМГ 101-2010
+  :file: data/rmg-101-2010.yaml
+- :id: РМГ 102-2010
+  :file: data/rmg-102-2010.yaml
+- :id: РМГ 103-2010
+  :file: data/rmg-103-2010.yaml
+- :id: РМГ 104-2010
+  :file: data/rmg-104-2010.yaml
+- :id: РМГ 105-2010
+  :file: data/rmg-105-2010.yaml
+- :id: РМГ 106-2010
+  :file: data/rmg-106-2010.yaml
+- :id: РМГ 107-2010
+  :file: data/rmg-107-2010.yaml
+- :id: РМГ 108-2011
+  :file: data/rmg-108-2011.yaml
+- :id: РМГ 109-2011
+  :file: data/rmg-109-2011.yaml
+- :id: РМГ 110-2010
+  :file: data/rmg-110-2010.yaml
+- :id: РМГ 111-2011
+  :file: data/rmg-111-2011.yaml
+- :id: РМГ 112-2010
+  :file: data/rmg-112-2010.yaml
+- :id: РМГ 113-2010
+  :file: data/rmg-113-2010.yaml
+- :id: РМГ 114-2011
+  :file: data/rmg-114-2011.yaml
+- :id: РМГ 115-2011
+  :file: data/rmg-115-2011.yaml
+- :id: РМГ 115-2019
+  :file: data/rmg-115-2019.yaml
+- :id: РМГ 116-2011
+  :file: data/rmg-116-2011.yaml
+- :id: РМГ 117-2012
+  :file: data/rmg-117-2012.yaml
+- :id: РМГ 119-2013
+  :file: data/rmg-119-2013.yaml
+- :id: РМГ 12-95
+  :file: data/rmg-12-95.yaml
+- :id: РМГ 120-2013
+  :file: data/rmg-120-2013.yaml
+- :id: РМГ 125-2013
+  :file: data/rmg-125-2013.yaml
+- :id: РМГ 127-2013
+  :file: data/rmg-127-2013.yaml
+- :id: РМГ 128-2013
+  :file: data/rmg-128-2013.yaml
+- :id: РМГ 129-2013
+  :file: data/rmg-129-2013.yaml
+- :id: РМГ 130-2013
+  :file: data/rmg-130-2013.yaml
+- :id: РМГ 131-2013
+  :file: data/rmg-131-2013.yaml
+- :id: РМГ 132-2013
+  :file: data/rmg-132-2013.yaml
+- :id: РМГ 133-2013
+  :file: data/rmg-133-2013.yaml
+- :id: РМГ 134-2015
+  :file: data/rmg-134-2015.yaml
+- :id: РМГ 135-2016
+  :file: data/rmg-135-2016.yaml
+- :id: РМГ 136-2016
+  :file: data/rmg-136-2016.yaml
+- :id: РМГ 137-2016
+  :file: data/rmg-137-2016.yaml
+- :id: РМГ 138-2016
+  :file: data/rmg-138-2016.yaml
+- :id: РМГ 139-2016
+  :file: data/rmg-139-2016.yaml
+- :id: РМГ 140-2020
+  :file: data/rmg-140-2020.yaml
+- :id: РМГ 141-2019
+  :file: data/rmg-141-2019.yaml
+- :id: РМГ 142-2019
+  :file: data/rmg-142-2019.yaml
+- :id: РМГ 143-2019
+  :file: data/rmg-143-2019.yaml
+- :id: РМГ 144-2019
+  :file: data/rmg-144-2019.yaml
+- :id: РМГ 145-2019
+  :file: data/rmg-145-2019.yaml
+- :id: РМГ 146-2019
+  :file: data/rmg-146-2019.yaml
+- :id: РМГ 147-2021
+  :file: data/rmg-147-2021.yaml
+- :id: РМГ 148-2022
+  :file: data/rmg-148-2022.yaml
+- :id: РМГ 149-2023
+  :file: data/rmg-149-2023.yaml
+- :id: РМГ 150-2023
+  :file: data/rmg-150-2023.yaml
+- :id: РМГ 151-2025
+  :file: data/rmg-151-2025.yaml
+- :id: РМГ 17-2019
+  :file: data/rmg-17-2019.yaml
+- :id: РМГ 17-96
+  :file: data/rmg-17-96.yaml
+- :id: РМГ 19-96
+  :file: data/rmg-19-96.yaml
+- :id: РМГ 20-97
+  :file: data/rmg-20-97.yaml
+- :id: РМГ 23-97
+  :file: data/rmg-23-97.yaml
+- :id: РМГ 24-97
+  :file: data/rmg-24-97.yaml
+- :id: РМГ 27-99
+  :file: data/rmg-27-99.yaml
+- :id: РМГ 29-2013
+  :file: data/rmg-29-2013.yaml
+- :id: РМГ 29-99
+  :file: data/rmg-29-99.yaml
+- :id: РМГ 34-2001
+  :file: data/rmg-34-2001.yaml
+- :id: РМГ 34-2019
+  :file: data/rmg-34-2019.yaml
+- :id: РМГ 41-2001
+  :file: data/rmg-41-2001.yaml
+- :id: РМГ 43-2001
+  :file: data/rmg-43-2001.yaml
+- :id: РМГ 45-2003
+  :file: data/rmg-45-2003.yaml
+- :id: РМГ 50-2002
+  :file: data/rmg-50-2002.yaml
+- :id: РМГ 51-2002
+  :file: data/rmg-51-2002.yaml
+- :id: РМГ 52-2002
+  :file: data/rmg-52-2002.yaml
+- :id: РМГ 53-2002
+  :file: data/rmg-53-2002.yaml
+- :id: РМГ 54-2002
+  :file: data/rmg-54-2002.yaml
+- :id: РМГ 55-2002
+  :file: data/rmg-55-2002.yaml
+- :id: РМГ 56-2002
+  :file: data/rmg-56-2002.yaml
+- :id: РМГ 57-2003
+  :file: data/rmg-57-2003.yaml
+- :id: РМГ 58-2003
+  :file: data/rmg-58-2003.yaml
+- :id: РМГ 59-2003
+  :file: data/rmg-59-2003.yaml
+- :id: РМГ 59-2019
+  :file: data/rmg-59-2019.yaml
+- :id: РМГ 60-2003
+  :file: data/rmg-60-2003.yaml
+- :id: РМГ 61-2003
+  :file: data/rmg-61-2003.yaml
+- :id: РМГ 61-2010
+  :file: data/rmg-61-2010.yaml
+- :id: РМГ 62-2003
+  :file: data/rmg-62-2003.yaml
+- :id: РМГ 63-2003
+  :file: data/rmg-63-2003.yaml
+- :id: РМГ 64-2003
+  :file: data/rmg-64-2003.yaml
+- :id: РМГ 67-2004
+  :file: data/rmg-67-2004.yaml
+- :id: РМГ 69-2003
+  :file: data/rmg-69-2003.yaml
+- :id: РМГ 70-2003
+  :file: data/rmg-70-2003.yaml
+- :id: РМГ 71-2003
+  :file: data/rmg-71-2003.yaml
+- :id: РМГ 72-2003
+  :file: data/rmg-72-2003.yaml
+- :id: РМГ 72-2007
+  :file: data/rmg-72-2007.yaml
+- :id: РМГ 74-2004
+  :file: data/rmg-74-2004.yaml
+- :id: РМГ 75-2004
+  :file: data/rmg-75-2004.yaml
+- :id: РМГ 75-2014
+  :file: data/rmg-75-2014.yaml
+- :id: РМГ 76-2004
+  :file: data/rmg-76-2004.yaml
+- :id: РМГ 76-2014
+  :file: data/rmg-76-2014.yaml
+- :id: РМГ 77-2005
+  :file: data/rmg-77-2005.yaml
+- :id: РМГ 78-2005
+  :file: data/rmg-78-2005.yaml
+- :id: РМГ 79-2007
+  :file: data/rmg-79-2007.yaml
+- :id: РМГ 81-2006
+  :file: data/rmg-81-2006.yaml
+- :id: РМГ 83-2007
+  :file: data/rmg-83-2007.yaml
+- :id: РМГ 85-2009
+  :file: data/rmg-85-2009.yaml
+- :id: РМГ 86-2009
+  :file: data/rmg-86-2009.yaml
+- :id: РМГ 87-2009
+  :file: data/rmg-87-2009.yaml
+- :id: РМГ 88-2009
+  :file: data/rmg-88-2009.yaml
+- :id: РМГ 89-2009
+  :file: data/rmg-89-2009.yaml
+- :id: РМГ 89-2010
+  :file: data/rmg-89-2010.yaml
+- :id: РМГ 91-2009
+  :file: data/rmg-91-2009.yaml
+- :id: РМГ 91-2019
+  :file: data/rmg-91-2019.yaml
+- :id: РМГ 93-2009
+  :file: data/rmg-93-2009.yaml
+- :id: РМГ 93-2015
+  :file: data/rmg-93-2015.yaml
+- :id: РМГ 94-2009
+  :file: data/rmg-94-2009.yaml
+- :id: РМГ 95-2009
+  :file: data/rmg-95-2009.yaml
+- :id: РМГ 97-2010
+  :file: data/rmg-97-2010.yaml
+- :id: РМГ 98-2010
+  :file: data/rmg-98-2010.yaml
+- :id: РМГ 99-2010
+  :file: data/rmg-99-2010.yaml

@@ -1,0 +1,73 @@
+---
+id: pmg-32-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок взаимодействия органов государственного надзора за стандартами
+  type: main
+docidentifier:
+- content: ПМГ 32-2001
+  type: EASC
+  primary: true
+docnumber: '32'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Республика Беларусь
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:32:2001
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=104518
+  session: 29МГС
+  developer: Республика Беларусь
+  joining_states:
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'

@@ -1,0 +1,61 @@
+---
+id: pmg-124-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ГСИ. Порядок ведения Межгосударственного Реестра средств измерений
+  type: main
+docidentifier:
+- content: ПМГ 124-2013
+  type: EASC
+  primary: true
+docnumber: '124'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:124:2013
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=306430
+  session: 44МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'

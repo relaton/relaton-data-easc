@@ -1,0 +1,59 @@
+---
+id: pmg-02-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Типовое положение о межгосударственном техническом комитете по стандартизации
+  type: main
+docidentifier:
+- content: ПМГ 02-93
+  type: EASC
+  primary: true
+docnumber: '02'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Технический секретариат Межгосударственного Совета по стандартизации,
+        метрологии и сертификации
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:02:93
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=1
+  session: 33МГС
+  developer: Технический секретариат Межгосударственного Совета по стандартизации,
+    метрологии и сертификации
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

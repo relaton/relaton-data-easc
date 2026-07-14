@@ -1,0 +1,60 @@
+---
+id: pmg-15-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Требования к компетентности лабораторий неразрушающего контроля и технической
+    диагностики
+  type: main
+docidentifier:
+- content: ПМГ 15-96
+  type: EASC
+  primary: true
+docnumber: '15'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:15:96
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=13
+  session: 9МГС
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'

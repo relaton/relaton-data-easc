@@ -1,0 +1,71 @@
+---
+id: pmg-03-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок  регистрации,  издания и  обеспечения  документами  по  межгосударственной  стандартизации
+  type: main
+docidentifier:
+- content: ПМГ 03-2016
+  type: EASC
+  primary: true
+docnumber: '03'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Бюро по стандартам МГС
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaced
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:03:2016
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=365710
+  session: 68МГС
+  developer: Бюро по стандартам МГС
+  joining_states:
+  - '{"content" => "ГРУ"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'

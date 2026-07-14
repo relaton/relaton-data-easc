@@ -1,0 +1,74 @@
+---
+id: pmg-32-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок взаимодействия органов государственного надзора за соблюдением
+    технических регламентов
+  type: main
+docidentifier:
+- content: ПМГ 32-2006
+  type: EASC
+  primary: true
+docnumber: '32'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Республика Беларусь
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: withdrawn
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:32:2006
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=174363
+  session: 67МГС
+  developer: Республика Беларусь
+  joining_states:
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

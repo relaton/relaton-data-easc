@@ -1,0 +1,68 @@
+---
+id: rmg-17-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок планирования работ по сотрудничеству в области создания и применения
+    стандартных образцов состава и свойств веществ и материалов
+  type: main
+docidentifier:
+- content: РМГ 17-2019
+  type: EASC
+  primary: true
+docnumber: '17'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Российская Федерация
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: replaces
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:17:2019
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=470278
+  session: 120-П
+  developer: Российская Федерация
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТАД"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'

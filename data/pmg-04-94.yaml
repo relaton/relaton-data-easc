@@ -1,0 +1,72 @@
+---
+id: pmg-04-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порядок распространения межгосударственных стандартов и нормативной документации
+    Межгосударственного совета по стандартизации, метрологии и сертификации
+  type: main
+docidentifier:
+- content: ПМГ 04-94
+  type: EASC
+  primary: true
+docnumber: '04'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: МГС (Межгосударственный совет по стандартизации, метрологии и сертификации)
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: withdrawn
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: pmg
+  flavor: easc
+  urn: urn:easc:pmg:04:94
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=3
+  session: 60МГС
+  developer: МГС (Межгосударственный совет по стандартизации, метрологии и сертификации)
+  joining_states:
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КАЗ"}'
+  - '{"content" => ","}'
+  - '{"content" => "АЗЕ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "МОЛ"}'
+  - '{"content" => ","}'
+  - '{"content" => "РОФ"}'
+  - '{"content" => ","}'
+  - '{"content" => "ТУР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'

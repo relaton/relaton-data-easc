@@ -1,0 +1,63 @@
+---
+id: rmg-141-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Cистемы измерительные. Метрологическое обеспечение. Основные положения
+  type: main
+docidentifier:
+- content: РМГ 141-2019
+  type: EASC
+  primary: true
+docnumber: '141'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Eurasian Economic Standards Council
+    abbreviation:
+      content: EASC
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Украина
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: new
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Eurasian Economic Standards Council
+      abbreviation:
+        content: EASC
+ext:
+  doctype:
+    content: rmg
+  flavor: easc
+  urn: urn:easc:rmg:141:2019
+  webpage: https://mgscatalog.by/katalogstand_detail.php?UrlRN=423493
+  session: 115-П
+  developer: Украина
+  joining_states:
+  - '{"content" => "АРМ"}'
+  - '{"content" => ","}'
+  - '{"content" => "БЕИ"}'
+  - '{"content" => ","}'
+  - '{"content" => "КЫР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УКР"}'
+  - '{"content" => ","}'
+  - '{"content" => "УЗБ"}'
+  - '{"content" => ","}'

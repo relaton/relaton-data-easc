@@ -3,6 +3,8 @@
 require "relaton/index"
 require "relaton/bib"
 require "relaton/easc"
+require "fileutils"
+require "zip"
 
 module EascFetcher
   module Indexer
@@ -23,14 +25,31 @@ module EascFetcher
         end
         rel = File.expand_path(f).delete_prefix("#{base}/")
         idx.add_or_update docid.content, rel
-        add_pubid(idx2, pubid_class, item.id, rel) if idx2
+        add_pubid(idx2, pubid_class, docid.content, rel) if idx2
       rescue StandardError => e
         warn "Error processing #{f}: #{e.message}"
       end
 
       idx.save
-      idx2&.save
+      zip_index(index_file)
+      if idx2
+        idx2.save
+        zip_index(index_v2_file)
+      end
       [idx, idx2]
+    end
+
+    # Writes <name>.zip next to the YAML, containing the YAML as a single entry
+    # stored under its basename — the artifact the relaton read side downloads.
+    # Mirrors index-v1.zip across the other relaton-data repos.
+    def zip_index(yaml_file)
+      zip_file = yaml_file.sub(/\.ya?ml\z/, ".zip")
+      raise ArgumentError, "not a YAML index: #{yaml_file}" if zip_file == yaml_file
+
+      entry = File.basename(yaml_file)
+      FileUtils.rm_f zip_file
+      Zip::File.open(zip_file, Zip::File::CREATE) { |zip| zip.add(entry, yaml_file) }
+      zip_file
     end
 
     def clean_index(file:, pubid_class: nil)
@@ -54,37 +73,16 @@ module EascFetcher
       end
     end
 
-    # item.id is the dash-separated Latin form (e.g. "rmg-151-2025" or
-    # "pmg-v-31-2001"). Pubid::Easc parses the canonical Cyrillic form,
-    # so we reconstruct it: <cyrillic-series> [В ]<number>-<year>.
+    # `content` is the canonical Cyrillic designation from the item's primary
+    # docidentifier (e.g. "РМГ 151-2025" or "ПМГ В 31-2001"), which is exactly
+    # the form Pubid::Easc parses.
     def add_pubid(idx2, pubid_class, content, rel)
       return unless pubid_class
 
-      parsed = pubid_class.parse(canonical_from_id(content))
+      parsed = pubid_class.parse(content)
       idx2.add_or_update parsed, rel
     rescue StandardError => e
       warn "Skipping #{content} in index-v2: #{e.message}"
-    end
-
-    # "rmg-151-2025" → "РМГ 151-2025"
-    # "pmg-v-31-2001" → "ПМГ В 31-2001"
-    CYR_SERIES = { "pmg" => "ПМГ", "rmg" => "РМГ" }.freeze
-
-    def canonical_from_id(id)
-      parts = id.split("-")
-      series_latin = parts.shift
-      cyr_series = CYR_SERIES.fetch(series_latin) { series_latin.upcase }
-      out = cyr_series
-      # Optional variant marker
-      if parts.first == "v"
-        out << " В"
-        parts.shift
-      end
-      number = parts.shift
-      year = parts.shift
-      out << " #{number}"
-      out << "-#{year}" if year
-      out
     end
   end
 end

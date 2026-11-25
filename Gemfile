@@ -6,7 +6,7 @@ gem "psych", "~> 5.2.6"
 
 gem "relaton",
     git: "https://github.com/relaton/relaton.git",
-    branch: "feat/easc-flavor"
+    branch: "main"
 
 gem "pubid",
     git: "https://github.com/metanorma/pubid.git",

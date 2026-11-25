@@ -48,7 +48,7 @@ module EascFetcher
 
       entry = File.basename(yaml_file)
       FileUtils.rm_f zip_file
-      Zip::File.open(zip_file, Zip::File::CREATE) { |zip| zip.add(entry, yaml_file) }
+      Zip::File.open(zip_file, create: true) { |zip| zip.add(entry, yaml_file) }
       zip_file
     end
 
